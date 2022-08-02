@@ -1,0 +1,9 @@
+Ivanov 4 133729
+Dubkov 5 133657
+Buter 6 133456
+Mendelev 7 133228
+Shah 9 133233
+Martyniuk 2 133111
+Balashkov 3 133888
+Vorobyov 8 133292
+Kox 1 133876

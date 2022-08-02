@@ -1,0 +1,84 @@
+Surname: Balashkov
+Name: Alexandr
+Middle name: Sergeevich
+Course: 1
+Group: 10
+
+
+Surname: Dubkov
+Name: Ilya
+Middle name: Andreevich
+Course: 1
+Group: 10
+
+
+Surname: Gasen
+Name: Volodya
+Middle name: Krasen
+Course: 1
+Group: 34
+
+
+Surname: Ygnevenok
+Name: Vika
+Middle name: Sergeevna
+Course: 1
+Group: 34
+
+
+Surname: Asking
+Name: Silver
+Middle name: Gera
+Course: 2
+Group: 9
+
+
+Surname: Putin
+Name: Vladimir
+Middle name: Vladimirovich
+Course: 2
+Group: 9
+
+
+Surname: Hekmatyar
+Name: Nesh
+Middle name: Io
+Course: 2
+Group: 12
+
+
+Surname: Martynova
+Name: Asya
+Middle name: Vitalievna
+Course: 2
+Group: 12
+
+
+Surname: Dyxovich
+Name: Nikita
+Middle name: Sergeevich
+Course: 3
+Group: 5
+
+
+Surname: Polischuk
+Name: Veronika
+Middle name: Sergeevna
+Course: 3
+Group: 5
+
+
+Surname: Drevilo
+Name: Petr
+Middle name: Albertovich
+Course: 3
+Group: 8
+
+
+Surname: Vorobiev
+Name: Ivan
+Middle name: Ivanovich
+Course: 3
+Group: 8
+
+

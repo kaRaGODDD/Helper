@@ -1,0 +1,2 @@
+(rand() / (double)RAND_MAX) * (to - from) + from 
+генерация вещественных чисел

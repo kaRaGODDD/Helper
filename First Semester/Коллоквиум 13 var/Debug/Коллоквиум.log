@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\admin\source\repos\Коллоквиум\Коллоквиум\Source.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Коллоквиум\Коллоквиум\Source.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Коллоквиум\Коллоквиум\Source.cpp(29,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Коллоквиум.vcxproj -> C:\Users\admin\source\repos\Коллоквиум\Debug\Коллоквиум.exe
