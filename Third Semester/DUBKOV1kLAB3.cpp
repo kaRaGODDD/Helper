@@ -2,6 +2,11 @@
 #include <iostream>
 #include <string.h>
 
+
+/*
+Remove all characters except uppercase letters from a string
+*/
+
 int main() {
 
 	char _str[256]{};
