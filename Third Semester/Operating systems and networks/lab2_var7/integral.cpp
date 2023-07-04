@@ -26,7 +26,7 @@ long double Integral::calculation__of_the_integral() noexcept
 
 	long double h = 0.0, sum1 = 0.0, sum2 = 0.0;
 	h = (2 - 1) / static_cast<long double>(_number_of_partitions);
-	sum2 = static_cast<long double>(h * ((function_for_calculating_integral(1) + function_for_calculating_integral(2)) / 2));
+	sum2 = static_cast<long double>(h * ((function_for_calculating_integral(1) + function_for_calculating_integral(2)) / 2.0));
 	for (int step = 1; step < _number_of_partitions; step++)
 	{
 		sum2 += h * function_for_calculating_integral(1 + h * step);
@@ -36,7 +36,7 @@ long double Integral::calculation__of_the_integral() noexcept
 	{
 		sum1 = sum2;
 		_number_of_partitions *= 2; h /= 2;
-		sum2 = static_cast<long double>(h * ((function_for_calculating_integral(1) + function_for_calculating_integral(2)) / 2));
+		sum2 = static_cast<long double>(h * ((function_for_calculating_integral(1) + function_for_calculating_integral(2)) / 2.0));
 		for (int step = 1; step < _number_of_partitions; step++)
 		{
 			sum2 += h * function_for_calculating_integral(1 + h * step);
